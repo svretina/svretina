@@ -1,4 +1,4 @@
-# Hi there, I'm Stamatis Vretinaris! 👋
+# Hi there, I'm Stamatis! 👋
 
 Welcome to my GitHub profile! I'm a PhD candidate at Radboud University working on EMRI waveforms using Numerical Relativity. 
 
