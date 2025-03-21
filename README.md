@@ -16,5 +16,3 @@ Welcome to my GitHub profile! I'm a PhD candidate at Radboud University working 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=svretina&layout=compact&theme=radical)
 ---
-
-⭐️ From [svretina](https://github.com/svretina)
