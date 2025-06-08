@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm a PhD researcher at IMAPP (Radboud University)
 
 ## My Skills
 
-- **Languages**: Julia, Mathematica, Python, C, MATALB, Bash
-- **Tools**: emacs, HPC, slurm, git, linux, CI/CT
+- **Languages**: Julia, Mathematica, Python, C, MATLAB, Bash
+- **Tools**: emacs, HPC, slurm, git, linux, CI/CT, Testing
 
 ## Top Languages
 
