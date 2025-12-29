@@ -11,8 +11,9 @@ Welcome to my GitHub profile! I'm a PhD researcher at IMAPP (Radboud University)
 
 - **Languages**: Julia, Mathematica, Python, C, MATLAB, Bash
 - **Tools**: emacs, HPC, slurm, git, linux, CI/CT, Testing
-
+<!---
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=svretina&layout=compact&theme=radical)
 ---
+-->
