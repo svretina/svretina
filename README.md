@@ -1,28 +1,23 @@
 # Hi there, I'm Stamatis! 👋
 
-Welcome to my GitHub profile! 
-I'm a Computational Physicist finishing my PhD at IMAPP (Radboud University) and at the Albert Einstein Institute.
-I work on E/IMRI waveforms using Numerical Relativity. In my research I am using Finite Volume and Finite Difference 
-simulations on HPC facilities.
+I am a **Computational Physicist** and **Research Software Engineer** finishing my PhD at **Max Planck Institute for Gravitational Physics (Albert Einstein Institute)** and **IMAPP@Radboud University Nijmegen**. I specialize in bridging high-level theoretical physics with high-performance numerical implementation.
 
-## About Me
-I’m currently 
-- working on **Waveform modelling of E/IMRIs** using the Finite Volume Method
-- developing Summation By Parts Operators (SBP) for spherical symmetry
-- learning **Dinscontinuous Galerking Methods**
+## 🚀 Professional Highlights
+* **HPC Scalability:** Designed and implemented a Python-based automation pipeline that processed over **100,000 simulations** on HPC systems.
+* **Numerical Optimization:** Developed novel **Summation By Parts (SBP)** finite difference operators for spherical symmetry.
+* **Algorithm Development:** Built a new numerical framework for self-force calculations using **3D Finite Volume and Finite Difference** methods in Julia.
+* **Data Science:** Improved parameter estimation for gravitational wave models by an **order of magnitude** using physics-informed priors and machine learning.
 
-📫 How to reach me: **svretina@physics.auth.gr**
+## 🛠 Technical Stack
+* **Languages:** Julia, Python, Mathematica, C/C++, Fortran,
+* **Numerical Methods:** Finite Volume (FVM), Finite Difference (FDM), Bayesian Inference, Monte Carlo
+* **HPC & DevOps:** Slurm, LIKWID, Git (CI/CD), Bash/Linux, OpenMP
 
-## My Skills
-- Bayesian Parameter estimation, Machine Learning
-- Optimization problems, FVM, FDM
-- Parallelization, Code optimization, Rigorous testing 
-- **Languages**: Julia, Mathematica, Python, C, MATLAB, Bash/Shell
-- **Tools**: emacs, HPC, slurm, Visit/ParaView, git, linux, CI/CT, Testing
-  
-<!---
-## Top Languages
+## 🔬 Current Research Focus
+* **Waveform Modeling:** Developing E/IMRI waveforms using Numerical Relativity.
+* **Advanced Numerics:** Implementing **Discontinuous Galerkin Methods** and developing SBP operators for spherical symmetry.
+* **Self-Force:** Formulating self-force as an initial value problem for upcoming publications in **Physical Review D**.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=svretina&layout=compact&theme=radical)
----
--->
+## 📫 Contact & Links
+* **Email:** [svretina@gmail.com](mailto:svretina@gmail.com) 
+* **Location:** Nijmegen, Netherlands & Leipzig, Germany
