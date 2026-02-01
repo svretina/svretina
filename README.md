@@ -19,6 +19,6 @@ I am a **Computational Physicist** and **Research Software Engineer** finishing 
 * **Self-Force:** Formulating self-force as an initial value problem for upcoming publications in **Physical Review D**.
 
 ## 📫 Contact & Links
-* **Personal Website:** [svretina.github.io](svretina.github.io)
+* **Personal Website:** [svretina.github.io](https://svretina.github.io/)
 * **Email:** [svretina@gmail.com](mailto:svretina@gmail.com) 
 * **Location:** Nijmegen, Netherlands & Leipzig, Germany
