@@ -1,6 +1,6 @@
 # Hi there, I'm Stamatis! 👋
 
-I am a **Computational Physicist** and **Research Software Engineer** finishing my PhD at **Max Planck Institute for Gravitational Physics (Albert Einstein Institute)** and **IMAPP@Radboud University Nijmegen**. I specialize in bridging high-level theoretical physics with high-performance numerical implementation.
+I am a **Computational Physicist** and **Research Software Engineer** finishing my PhD at **Max Planck Institute for Gravitational Physics (Albert Einstein Institute)** and **IMAPP@Radboud University Nijmegen** under the guidance of my supervisor [Erik Schnetter](https://github.com/eschnett) and Badri Krishnan. I specialize in bridging high-level theoretical physics with high-performance numerical implementation.
 
 ## 🚀 Professional Highlights
 * **HPC Scalability:** Designed and implemented a Python-based automation pipeline that processed over **100,000 simulations** on HPC systems.
