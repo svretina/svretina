@@ -24,7 +24,7 @@ Python-based automation pipeline that processed **100,000+ simulations** on HPC 
 ### **FastTanhSinhQuadrature.jl** -- High-performance numerical integration
 A Julia library for fast Tanh-Sinh (Double Exponential) quadrature. It features optimized weights generation and SIMD-friendly evaluation, designed for high-precision numerical integration where standard methods struggle with singularities.  
 **Stack:** Julia · Numerical Analysis · Performance Optimization  
-🔗 https://github.com/svretina/FastTanhSinhQuadrature.jl
+🔗 https://github.com/svretina/FastTanhSinhQuadrature.jl JOSS: https://joss.theoj.org/papers/10.21105/joss.10076
 
 ### **PythiaBNS** -- Faster GW parameter estimation
 Improved parameter estimation for gravitational-wave models by **~10×** using physics-informed priors and machine learning.  
