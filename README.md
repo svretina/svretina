@@ -22,8 +22,10 @@ from numerical method design to HPC automation and performance.
 ### **SphericalSBPOperators.jl** -- SBP operators for spherical symmetry
 
 High-order numerical operators for spherical and curvilinear coordinates, enabling symmetry-reduced simulations with theoretical O(N^2) speedups and memory reductions over full 3D Cartesian discretizations.
+
 **Stack:** Julia · Numerical Analysis · Performance Optimization  
 🔗 <https://github.com/svretina/SphericalSBPOperators.jl>
+
 📄 arXiv: <https://arxiv.org/abs/2606.05155>
 
 ### **ScalarWaveFVM** -- Numerical scalar self force using FVM
@@ -36,21 +38,26 @@ Numerical framework for scalar self force in general relativity using Finite Vol
 ### **Ektome** -- HPC automation at scale
 
 Python-based automation pipeline that processed **100,000+ simulations** on HPC systems (HTCondor), with robust job orchestration and post-processing.  
+
 **Stack:** Python · HTCondor · Bash/Linux · Git (CI/CD)  
 🔗 <https://github.com/svretina/Ektome>
 
 ### **FastTanhSinhQuadrature.jl** -- High-performance numerical integration
 
 An AVX-optimized Julia library for fast Tanh-Sinh quadrature. Achieved up to **62× speedup in 1D**, **35,700× in 2D**, and successful microsecond-scale convergence in 3D boundary-singular integrals where competing libraries failed to meet tolerance.  
+
 **Stack:** Julia · Numerical Analysis · Performance Optimization  
 🔗 <https://github.com/svretina/FastTanhSinhQuadrature.jl>  
+
 📄 JOSS: <https://joss.theoj.org/papers/10.21105/joss.10076>
 
 ### **PythiaBNS** -- Faster GW parameter estimation
 
 Improved parameter estimation for gravitational-wave models by **~10×** using physics-informed priors and machine learning.  
+
 **Stack:** Python · Bayesian inference · ML  
 🔗 <https://github.com/svretina/PythiaBNS>  
+
 📄 arXiv: <https://arxiv.org/abs/2501.11518> · PRD: <https://journals.aps.org/prd/abstract/10.1103/g1qs-j74x>
 
 ---
