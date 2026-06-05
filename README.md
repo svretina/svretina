@@ -28,12 +28,14 @@ High-order numerical operators for spherical and curvilinear coordinates, enabli
 
 📄 arXiv: <https://arxiv.org/abs/2606.05155>
 
-### **ScalarWaveFVM** -- Numerical scalar self force using FVM
+### **ScalarWaveFVM.jl** -- Numerical scalar self force using FVM
 
 Numerical framework for scalar self force in general relativity using Finite Volume Method.
 
 **Stack:** Julia · FVM  
 🔗 <https://github.com/svretina/ScalarWaveFVM>
+
+📄 arXiv: <https://arxiv.org/abs/2606.06487>
 
 ### **Ektome** -- HPC automation at scale
 
