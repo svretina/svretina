@@ -12,7 +12,9 @@ I turn high-level physics into **scalable, reliable simulation software**,
 from numerical method design to HPC automation and performance.
 
 📍 Nijmegen, NL & Leipzig, DE
+
 🌐 <https://svretina.github.io/>
+
 ✉️ <stamatis.vretinaris@aei.mpg.de> · <svretina@gmail.com>
 
 ---
